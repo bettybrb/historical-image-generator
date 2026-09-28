@@ -1,0 +1,9 @@
+torch
+transformers
+diffusers
+accelerate
+safetensors
+sentencepiece
+huggingface-hub
+gradio
+Pillow
